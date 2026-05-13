@@ -1,0 +1,45 @@
+.page {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 40px 20px;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  margin-bottom: 8px;
+}
+
+.subtitle {
+  color: #666;
+  margin-bottom: 30px;
+}
+
+.rental-list {
+  display: grid;
+  gap: 20px;
+}
+
+.rental-card {
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  padding: 20px;
+  background: #fff;
+}
+
+.rental-card h2 {
+  margin-top: 0;
+}
+
+.rental-card a {
+  display: inline-block;
+  margin-top: 10px;
+}
+
+details {
+  margin-top: 12px;
+}
+
+summary {
+  cursor: pointer;
+  font-weight: bold;
+}
