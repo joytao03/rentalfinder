@@ -170,5 +170,5 @@ The MVP focuses on extracting user-visible webpage content through browser tooli
 
 ## Author
 
-Albert Yang  
+Joy Tao
 Computer Engineering @ UBC
